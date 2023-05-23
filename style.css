@@ -148,5 +148,6 @@ footer {
 @media screen and (max-width : 600px){
     .btn-group {
         flex-direction: column;
+        gap: 12px;
     }
 }
